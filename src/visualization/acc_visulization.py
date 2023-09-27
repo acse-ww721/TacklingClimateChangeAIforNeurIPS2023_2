@@ -1,5 +1,5 @@
-# Name: Wenqi Wang
-# Github username: acse-ww721
+# Name: Anonymous
+# Github username: Anonymous
 
 import matplotlib.pyplot as plt
 import numpy as np

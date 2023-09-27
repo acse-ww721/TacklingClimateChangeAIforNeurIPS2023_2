@@ -1,6 +1,6 @@
 ## Data Assimilation of ERA5 and ASOS with U-STN model for Weather Forecasting in the UK region
 
-### Author: Wenqi Wang
+### Author: Anonymous
 
 Contents
 ---------------------
@@ -49,7 +49,7 @@ To establish the required environment for this project using Conda, follow these
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/acse-ww721/irp_ww721_bakcup.git
+   git clone https://github.com/Anonymous/irp_ww721_bakcup.git
    cd irp_ww721_bakcup
 
 To set up the required environment for this project, please follow the instructions below based on your operating
@@ -172,7 +172,7 @@ Contributors
 ------------
 For any inquiries or issues with the code, please don't hesitate to reach out to me:
 
-* [Wang, Wenqi](mailto:wenqi.wang21@imperial.ac.uk)
+* [Anonymous](mailto:wenqi.wang21@imperial.ac.uk)
 
 LICENSE
 ------------

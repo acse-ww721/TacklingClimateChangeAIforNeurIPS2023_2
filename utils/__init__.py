@@ -1,5 +1,5 @@
 """
-Name: Wenqi Wang
-Github username: acse-ww721
+Name: Anonymous
+Github username: Anonymous
 Folder Management,time select,model weight initialisation and tree generation utilities
 """

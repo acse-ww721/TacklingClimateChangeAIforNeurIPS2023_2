@@ -1,5 +1,5 @@
-# Name: Wenqi Wang
-# Github username: acse-ww721
+# Name: Anonymous
+# Github username: Anonymous
 
 # The European Union has 27 member states
 # The site use GB to denote UK_ASOS

@@ -1,5 +1,5 @@
 """
-Name: Wenqi Wang
-Github username: acse-ww721
+Name: Anonymous
+Github username: Anonymous
 Data downloaders, crawlers utilities for ERA5 and ASOS data
 """

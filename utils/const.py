@@ -1,5 +1,5 @@
-# Name: Wenqi Wang
-# Github username: acse-ww721
+# Name: Anonymous
+# Github username: Anonymous
 
 # The constant is calculated by The data from 1979-2020 (Training set)
 # The calculation process can be seen in src/preprocessing/era5_preprocessing.py

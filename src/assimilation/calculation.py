@@ -6,8 +6,8 @@ from scipy.stats import pearsonr
 from sklearn.metrics import mean_squared_error
 from tqdm import tqdm
 
-# Name: Wenqi Wang
-# Github username: acse-ww721
+# Name: Anonymous
+# Github username: Anonymous
 
 
 def calculate_acc_and_rmse(era5_data, model_weight):

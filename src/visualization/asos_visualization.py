@@ -1,5 +1,5 @@
-# Name: Wenqi Wang
-# Github username: acse-ww721
+# Name: Anonymous
+# Github username: Anonymous
 
 # Being used in the test_data_asos_regrid_and_plot.ipynb
 
