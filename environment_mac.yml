@@ -1,7 +1,7 @@
 # This file can be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-arm64
-name: acse_ww721_irp
+name: acse_Anonymous_irp
 channels:
   - defaults
   - conda-forge

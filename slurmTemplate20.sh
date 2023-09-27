@@ -1,4 +1,4 @@
-ww721@ese-hivemind:/raid/hivemind$ cat slurmTemplate20.sh 
+Anonymous@ese-hivemind:/raid/hivemind$ cat slurmTemplate20.sh
 #!/bin/bash -l
 
 ##############################

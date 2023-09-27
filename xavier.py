@@ -1,4 +1,4 @@
-ww721@ese-hivemind:/raid/hivemind$ cat xavier.py 
+Anonymous@ese-hivemind:/raid/hivemind$ cat xavier.py 
 import numpy as np
 from timeit import default_timer as timer
 from numba import vectorize

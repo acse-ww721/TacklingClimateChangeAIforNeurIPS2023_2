@@ -49,8 +49,8 @@ To establish the required environment for this project using Conda, follow these
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Anonymous/irp_ww721_bakcup.git
-   cd irp_ww721_bakcup
+   git clone https://github.com/acse-ww721/Tackling-Climate-Change-AI-for-NeurIPS-2023..git
+   cd Anonymous_bakcup
 
 To set up the required environment for this project, please follow the instructions below based on your operating
 system:
@@ -172,7 +172,7 @@ Contributors
 ------------
 For any inquiries or issues with the code, please don't hesitate to reach out to me:
 
-* [Anonymous](mailto:wenqi.wang21@imperial.ac.uk)
+* [Anonymous]()
 
 LICENSE
 ------------
